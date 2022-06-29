@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# Perl is a compiled and interprated language
 # uses of perl
 # Develop CGI scripts
 # Perform test processing tasks
