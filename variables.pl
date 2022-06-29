@@ -20,7 +20,7 @@ say "The card number is: $card";
 {
     # The Variable $total_length is only accessible inside the block
     my $total_length = $cardnumlength + $sec_code_length;
-    print("The total length is: $total_length\n");
+    print("The card number: $card total length is: $total_length\n");
 }
 
 
