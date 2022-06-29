@@ -5,7 +5,7 @@
 # Complex batch processing jobs
 # Data Analysis
 # Text manipulation
-use strict;
+use strict; # Pragma lets you turn on and off certain features
 use warnings;
 
 print("Hello world\n");
