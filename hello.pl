@@ -5,4 +5,7 @@
 # Complex batch processing jobs
 # Data Analysis
 # Text manipulation
+use strict;
+use warnings;
+
 print("Hello world\n");
