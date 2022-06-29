@@ -13,4 +13,15 @@ print("This is a constant: ",num_cards, "\n");
 
 #
 my $card = "Visa";
+my $cardnumlength = 12;
+my $sec_code_length = 3;
 say "The card number is: $card";
+
+{
+    # The Variable $total_length is only accessible inside the block
+    my $total_length = $cardnumlength + $sec_code_length;
+    print("The total length is: $total_length\n");
+}
+
+
+
