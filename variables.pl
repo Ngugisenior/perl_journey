@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Every perl variable must begin with a $ symbol
-use strict;
+use strict; # Scans expressions and statements for potential errors
 use warnings;
 use feature 'say';
 
